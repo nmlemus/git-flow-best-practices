@@ -1,0 +1,1 @@
+# git-flow-best-practices
